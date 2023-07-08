@@ -1,0 +1,20 @@
+/*Common Font  */
+body{
+    font-family: 'Agdasima', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+/* Nav design */
+nav{
+    display:flex ;
+}
+.nav-tittle{
+    color:black;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.text-orange{
+    color:red;
+}
